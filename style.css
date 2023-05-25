@@ -1,0 +1,19 @@
+body {
+	font-size: large;
+	margin: 50px 200px;
+}
+
+header {
+	padding: 0px 10px;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	gap: 100px;
+	margin: 50px 100px;
+}
+
+#about-text {
+	margin: 0px 50px;
+}
